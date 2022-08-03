@@ -1,0 +1,182 @@
+B:
+A
+
+
+
+
+
+
+
+:WQ
+C
+
+Ajkja<:qw
+Ajkja<:qw
+
+Ajkja<:qw
+
+	jgbjdfaflksnañl:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+	:::::
+^j
+jgbjdfaflksnañlj
+
+jgbjdfaflksnañlj
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+B
+A
+C
+A
+C
+D
+A
+C
+A
+D
+C
+B
+B
+B
+A
+A
+A
+A
+A
+B
+B
+B
+B
+B
+
+qwaasfdsdfmn
+A
+A
+A
+A
+A
+A
+B
+B
+B
+B
+
+B
+B
+B
+B
+iiiin kn
+D
+D
+D
+C
+C
+s
