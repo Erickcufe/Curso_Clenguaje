@@ -6,6 +6,7 @@ Ligas de cursos gratuitos:
 - https://www.freecodecamp.org/news/the-c-beginners-handbook/
 - https://www.redhat.com/sysadmin/learn-bash-scripting
 
+## Primeros pasos
 
 Para generar archivos Vim se usa el siguiente comando:
 
