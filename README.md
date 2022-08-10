@@ -18,5 +18,16 @@ Posteriormente se usa `i` para insertar texto, al terminar de escribir el códig
 
 Para compilar el archivo se usa `gcc -o name.sh name.c`. 
 
+# Caracteres y tokens
+
+- **Comentarios**: `/* COMENTARIO */` la forma clasica `// classic formula`
+- **Preprocessor directive**: `#include` para agregar librerias 
+- **Identificadores**: `a, b, main`
+- **Operadores**: `+ &`
+- **Puntuación**: `{ ; }`
+
+
+
+
 
 
