@@ -63,6 +63,7 @@ Para compilar el archivo se usa `gcc -o name.sh name.c`.
 - volatile
 - while
 
+## Identificadores
 
 
 
