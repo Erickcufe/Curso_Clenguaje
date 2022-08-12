@@ -65,6 +65,9 @@ Para compilar el archivo se usa `gcc -o name.sh name.c`.
 
 ## Identificadores
 
+Inician con una letra o con un `_`. Seguido de letras ó `_` ó digitos. **NO SE RECOMIENDA USAR NOMBRES VAGOS O INDESCRIPTIVOS**. 
+
+Usar las variables `x`, `y`, `q` o `p`puede ser correcto la función se refiere a planos o a funciones lógicas. 
 
 
 
