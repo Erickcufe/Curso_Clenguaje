@@ -77,3 +77,24 @@ Usar las variables `x`, `y`, `q` o `p`puede ser correcto la función se refiere 
 **Los simbolos van a variar de función según sea el contexto.**
 
 
+## Evaluación de expresiones 
+
+`/`; `%`; `++`; `--`; `=`
+
+**Pre incremental**:
+`a = ++b` es lo mismo que `b = b + 1; a = b`
+
+**Post Incremental**:
+`a = b++` es lo mismo que `a = b; b = b + 1`
+
+Las divisiones respetan el tipo de variable (entero o flotante).
+
+## Declaraciones de asignación
+
+Las asignaciones se declaran con el tipo de variable que se va a manejar `int a = 1`. 
+
+- `int`
+- `double`
+- `float`
+- `char`
+
