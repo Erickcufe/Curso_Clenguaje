@@ -70,4 +70,10 @@ Inician con una letra o con un `_`. Seguido de letras ó `_` ó digitos. **NO SE
 Usar las variables `x`, `y`, `q` o `p`puede ser correcto la función se refiere a planos o a funciones lógicas. 
 
 
+## Operadores
+
+[C language Operator Precedence Chart](https://en.cppreference.com/w/c/language/operator_precedence)
+
+**Los simbolos van a variar de función según sea el contexto.**
+
 
