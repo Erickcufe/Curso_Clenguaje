@@ -98,3 +98,5 @@ Las asignaciones se declaran con el tipo de variable que se va a manejar `int a 
 - `float`
 - `char`
 
+## El tipo **int**.
+
