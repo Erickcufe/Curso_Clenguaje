@@ -1,0 +1,86 @@
+/* 
+ Prints a table of values for sine and cosine between (0, 1).
+ 
+*/
+
+#include <stdio.h>
+#include <math.h> // for sin and cos
+#include <conio.h> // for getch
+int fun(float value)
+{
+    float value;
+    for(float i = 0; i <= 1; i = i + value) // value between 0 and 1
+    {
+    printf("sin(%f) = %f\tcos(%f)=%f\n", i, sin(i), i, cos(i));
+    }
+}
+
+int main()
+{
+   float value;
+   printf("Enter the desired value between 0 and 1 : ");
+   scanf("%f", &value);
+   fun(value);
+return 0;
+}
+
+
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    double sinvalue,cosinevalue,x,interval;
+    printf("enter the desired interval");
+    scanf("%lf",&interval);
+    for (x=0;x<=1;x+= interval)
+    {
+        sinvalue=sin(x);
+        printf("sin%lf=%lf\n",x,sinvalue);
+    }
+    for (x=0;x<=1;x+= interval)
+    {     cosinevalue=cos(x);
+        printf("cos%lf=%lf\n",x,cosinevalue);
+    }
+    return 0;
+}
+
+/* Table of values of sine and cos between (0,1)
+*/
+#include<stdio.h>
+#include<math.h> /* has  sin(), abs(), and fabs() */
+int main(void)
+{
+double interval;
+int i;
+for(i = 1; i < 10; i++)
+{
+ interval = i/10.0;
+ printf(" sin( %0.1lf ) = %0.3lf\t cos( %0.1lf) = %0.3lf\n ", interval, sin(interval),interval, cos(interval));//Prints both Sine and Cosine Values
+}
+
+
+printf("\n+++++++\n");
+return 0;
+}
+
+/*prints a table of values for sine and cosine between but not including(0, 1).*/
+#include<stdio.h>
+#include<math.h>
+int main(void)
+{
+double valuesin,valuecos,argument;//variable declaration
+
+    for(int i=1;i<=10;i++){
+
+    argument=i/10.0;//calculation of the argument in this case with an accuracy of one tenth
+    if(argument==1) break;//if the argument is 1, end the program
+    valuesin=sin(argument);//sine function calculation
+    valuecos=cos(argument);//cosine function calculation
+
+    printf("sin(%f)=%f ",argument,valuesin);//output of the sine  function
+    printf("| cos(%f)=%f",argument,valuecos);//output of the cosine function
+    printf("\n");//carriage return character to newline
+}
+
+return 0;
+}
